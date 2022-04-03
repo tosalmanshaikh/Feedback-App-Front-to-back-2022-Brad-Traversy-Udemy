@@ -13,7 +13,7 @@ function App() {
     <Header />
     <div className='container'>
       <FeedbackList/>
-      <h1>git hub test</h1>
+      <h1>git hub test-01</h1>
     </div>
     </>
   )
